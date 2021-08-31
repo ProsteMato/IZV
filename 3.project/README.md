@@ -17,48 +17,48 @@ Geograficka data
 
 Overeni hypotezy
 --------------------------------------------------------------------------------
-+1.00 filtrace (az 2 b) \\
-+2.00 kontingencni tabulka (az 2 b) \\
-+2.00 vypocet chi2 testu (az 2 b) \\
-+1.00 komentare (az 1 b) \\
-+3.00 zaver: dochazi k silnemu ovlivneni (az 3 b) \\
++1.00 filtrace (az 2 b) <br/>
++2.00 kontingencni tabulka (az 2 b) <br/>
++2.00 vypocet chi2 testu (az 2 b) <br/>
++1.00 komentare (az 1 b) <br/>
++3.00 zaver: dochazi k silnemu ovlivneni (az 3 b) <br/>
 
 Vlastni analyza
 --------------------------------------------------------------------------------
-+3.00 tabulka: prehlednost, vzhled (az 5 b) \\
-+4.00 graf: popis, vzhled (az 4 b) \\
-+4.00 graf: vhodna velikost, citelnost (az 4 b) \\
-+2.00 graf: pouziti vektoroveho formatu (az 2 b) \\
-+3.00 textovy popis (az 3 b) \\
-+4.00 statisticka smysluplnost analyzy (az 4 b) \\
-+3.00 dalsi ciselne hodnoty v textu (az 3 b) \\
-+3.00 generovani hodnot skriptem (az 3 b) \\
-+2.00 kvalita kodu dle PEP8 (0 kritickych, 7 E2.., 0 E7..)) (az 2 b) \\ 
++3.00 tabulka: prehlednost, vzhled (az 5 b) <br/>
++4.00 graf: popis, vzhled (az 4 b) <br/>
++4.00 graf: vhodna velikost, citelnost (az 4 b) <br/>
++2.00 graf: pouziti vektoroveho formatu (az 2 b) <br/>
++3.00 textovy popis (az 3 b) <br/>
++4.00 statisticka smysluplnost analyzy (az 4 b) <br/>
++3.00 dalsi ciselne hodnoty v textu (az 3 b) <br/>
++3.00 generovani hodnot skriptem (az 3 b) <br/>
++2.00 kvalita kodu dle PEP8 (0 kritickych, 7 E2.., 0 E7..)) (az 2 b) <br/>
 
-CELKEM: 56.0 bodu \\
+CELKEM: 56.0 bodu <br/>
 
 Komentar k hodnoceni (zejmena k vizualizacim)
 ================================================================================
-cluster: nepopsany colorbar \\
+cluster: nepopsany colorbar <br/>
 
-stat: slozitejsi filtrace \\
+stat: slozitejsi filtrace <br/>
 
-doc: pekne jen tabulka neni uplne tabulkou - cekal bych den / noc jko sloupec, Rok posunuty na uroven ostatnich hlavicek ... \\
+doc: pekne jen tabulka neni uplne tabulkou - cekal bych den / noc jko sloupec, Rok posunuty na uroven ostatnich hlavicek ... <br/>
 
 Vystup skriptu geografickych dat (stdout)
 ================================================================================
-#gdf_crs  EPSG:5514 \\
-#gdf_nan 0 \\
-#gdf_range_x_min -901630.1875 \\
-#gdf_range_x_max -432869.21875 \\
-#gdf_range_y_min -1219810.375 \\
-#gdf_range_y_max -938489.5 \\
-#gdf_count  485591 \\
-#make_geo_docstring  ok \\
-#plot_geo_docstring  ok \\
-#plot_cluster_docstring  ok \\
-#plot_geo_done 3470.78 ms \\
-#plot_cluster_done 2386.19 ms \\
+#gdf_crs  EPSG:5514 <br/>
+#gdf_nan 0 <br/>
+#gdf_range_x_min -901630.1875 <br/>
+#gdf_range_x_max -432869.21875 <br/>
+#gdf_range_y_min -1219810.375 <br/>
+#gdf_range_y_max -938489.5 <br/>
+#gdf_count  485591 <br/>
+#make_geo_docstring  ok <br/>
+#plot_geo_docstring  ok <br/>
+#plot_cluster_docstring  ok <br/>
+#plot_geo_done 3470.78 ms <br/>
+#plot_cluster_done 2386.19 ms <br/>
 
 
 Vystup skriptu geografickych dat (stderr)
@@ -67,8 +67,8 @@ Vystup skriptu geografickych dat (stderr)
 
 Vystup PEP8 testu souboru geo.py
 ================================================================================
-1       E303 too many blank lines (2) \\
-1       W293 blank line contains whitespace \\
+1       E303 too many blank lines (2) <br/>
+1       W293 blank line contains whitespace <br/>
 
 
 Vystup skriptu dokumentace (stdout)
@@ -106,14 +106,14 @@ Počet nehôd ktoré zavinili zvieratá z roku 2018 na rok 2019 vzrástol o: 24.
 
 Vystup skriptu dokumentace (stderr)
 ================================================================================
-failed to get the current screen resources \\
+failed to get the current screen resources <br/>
 
 
 Vystup PEP8 testu souboru doc.py
 ================================================================================
-1       E123 closing bracket does not match indentation of opening bracket's line \\
-5       E127 continuation line over-indented for visual indent \\
-3       E231 missing whitespace after ':' \\
-4       E251 unexpected spaces around keyword / parameter equals \\
-18      W293 blank line contains whitespace \\
-1       W391 blank line at end of file \\
+1       E123 closing bracket does not match indentation of opening bracket's line <br/>
+5       E127 continuation line over-indented for visual indent <br/>
+3       E231 missing whitespace after ':' <br/>
+4       E251 unexpected spaces around keyword / parameter equals <br/>
+18      W293 blank line contains whitespace <br/>
+1       W391 blank line at end of file <br/>
