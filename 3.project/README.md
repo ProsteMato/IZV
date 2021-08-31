@@ -2,18 +2,18 @@ Hodnoceni treti casti projektu: xkocim05
 ================================================================================
 Geograficka data
 --------------------------------------------------------------------------------
-+1.00 spravne CRS (5514, 3857) (az 1 b) \\
-+2.00 spravne rozsah (viz FAQ) (az 2 b) \\
-+2.00 pocet radku 485591 > 485e3 (az 2 b) \\
-+2.00 bez NaN v souradnicich (az 2 b) \\
-+3.00 plot_geo: prehlednost, vzhled (az 3 b) \\
-+2.00 plot_geo: zobrazeni ve WebMercator (a ne v S-JTSK) (az 2 b) \\
-+1.00 plot_cluster: prehlednost, vzhled (az 2 b) \\
-+3.00 plot_cluster: clustering (az 3 b) \\
-+1.00 funkce make_geo ma spravne docstring (PEP257) (az 1 b) \\
-+0.50 funkce plot_geo ma spravne docstring (PEP257) (az 0.5 b) \\
-+0.50 funkce plot_cluster ma spravne docstring (PEP257) (az 0.5 b) \\
-+1.00 kvalita kodu dle PEP8 (0 kritickych, 0 E2.., 0 E7..)) (az 1 b) \\
++1.00 spravne CRS (5514, 3857) (az 1 b) <br/>
++2.00 spravne rozsah (viz FAQ) (az 2 b) <br/>
++2.00 pocet radku 485591 > 485e3 (az 2 b) <br/>
++2.00 bez NaN v souradnicich (az 2 b) <br/>
++3.00 plot_geo: prehlednost, vzhled (az 3 b) <br/>
++2.00 plot_geo: zobrazeni ve WebMercator (a ne v S-JTSK) (az 2 b) <br/>
++1.00 plot_cluster: prehlednost, vzhled (az 2 b) <br/>
++3.00 plot_cluster: clustering (az 3 b) <br/>
++1.00 funkce make_geo ma spravne docstring (PEP257) (az 1 b) <br/>
++0.50 funkce plot_geo ma spravne docstring (PEP257) (az 0.5 b) <br/>
++0.50 funkce plot_cluster ma spravne docstring (PEP257) (az 0.5 b) <br/>
++1.00 kvalita kodu dle PEP8 (0 kritickych, 0 E2.., 0 E7..)) (az 1 b) <br/>
 
 Overeni hypotezy
 --------------------------------------------------------------------------------
